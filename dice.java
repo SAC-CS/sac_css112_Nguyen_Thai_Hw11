@@ -1,6 +1,8 @@
 package dicegame;
 
 public class dice {
+	
+	// WHere is the constructor, Thai!
 	private int ndice;
 private int nthrow;
 private int nhistory;
